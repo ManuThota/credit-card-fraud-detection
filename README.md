@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection using Random Forest
-Project Overview :
+Project Overview  :
 
 Credit card fraud is a critical real-world problem where fraudulent transactions are extremely rare compared to legitimate ones.
 This project builds a production-ready machine learning pipeline to detect fraudulent credit card transactions using a Random Forest Classifier, with a strong focus on clean code structure, reproducibility, and deployment readiness.
